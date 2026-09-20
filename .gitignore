@@ -1,0 +1,11 @@
+# Operating system
+Thumbs.db
+.DS_Store
+# VS Code
+.vscode/
+# Local development
+*.log
+# Environment / secrets
+.env
+.env.*
+!.env.example

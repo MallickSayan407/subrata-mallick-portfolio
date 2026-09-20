@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="day">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Subrata Mallick — Java full-stack developer</title>
+  <meta name="description" content="Portfolio of Subrata Mallick, an ECE graduate building full-stack applications with Java, Spring Boot, MySQL, Python and React.">
+  <meta name="theme-color" content="#f4faff">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='34' fill='%23f5a623'/%3E%3C/svg%3E">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&family=Hanken+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
+
+  <!-- Set the theme before first paint so there is no flash of the wrong sky -->
+  <script>
+    (function () {
+      var pref = 'auto';
+      try { pref = localStorage.getItem('theme-pref') || 'auto'; } catch (e) {}
+      var h = new Date().getHours();
+      var auto = h >= 5 && h < 8 ? 'dawn' : h >= 8 && h < 16 ? 'day' : h >= 16 && h < 19 ? 'evening' : 'night';
+      var t = ['dawn', 'day', 'evening', 'night'].indexOf(pref) > -1 ? pref : auto;
+      document.documentElement.setAttribute('data-theme', t);
+    })();
+  </script>
+
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <a class="skip" href="#profile">Skip to content</a>
+
+  <header class="nav" id="top">
+    <div class="wrap nav-inner">
+      <a class="brand" href="#top" aria-label="Subrata Mallick, back to top">Subrata Mallick</a>
+      <nav aria-label="Sections">
+        <ul class="nav-links">
+          <li><a href="#profile">Profile</a></li>
+          <li><a href="#academics">Academics</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#training">Training</a></li>
+          <li><a href="#hobbies">Hobbies</a></li>
+          <li><a href="#resume">Resume</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- HERO: the sky follows the visitor's local time -->
+  <section class="hero" aria-labelledby="hero-title">
+    <div class="wrap hero-text">
+      <p class="greeting" id="greeting">Hello</p>
+      <h1 id="hero-title">Subrata Mallick</h1>
+      <p class="hero-role">Java full-stack developer. I build backends in Spring Boot, connect them to Python machine learning services, and ship the frontend to go with them.</p>
+      <div class="actions">
+        <a class="btn btn-primary" href="#projects">See my projects</a>
+        <a class="btn btn-ghost" href="assets/Subrata_Mallick_Resume.pdf" download="Subrata_Mallick_Resume.pdf">Download resume</a>
+      </div>
+    </div>
+
+    <div class="scene" aria-hidden="true">
+      <div class="stars" id="stars"></div>
+      <div class="cloud c1"></div>
+      <div class="cloud c2"></div>
+      <div class="orb" id="orb"></div>
+      <svg class="hills" viewBox="0 0 1440 220" preserveAspectRatio="none">
+        <path class="hill-back" d="M0 120 C 160 40, 320 40, 500 100 S 860 170, 1040 90 S 1320 30, 1440 80 L1440 220 L0 220 Z"/>
+        <path class="hill-front" d="M0 170 C 220 110, 420 110, 640 160 S 1080 210, 1260 150 S 1400 130, 1440 145 L1440 220 L0 220 Z"/>
+      </svg>
+    </div>
+  </section>
+
+  <main>
+    <!-- PROFILE -->
+    <section id="profile" class="section" aria-labelledby="profile-h">
+      <div class="wrap split">
+        <h2 id="profile-h">Profile</h2>
+        <div class="content">
+          <p class="lead">I'm an Electronics and Communication Engineering graduate from West Bengal who writes software. My projects cover enterprise-style backends, face recognition, machine learning prediction and data visualization.</p>
+          <p>I'm looking for an entry-level software development role where I can put my programming, database and problem-solving skills to work.</p>
+
+          <h3 class="sub">Skills</h3>
+          <dl class="skills">
+            <div><dt>Languages</dt><dd>Java, C++, Python, JavaScript, C</dd></div>
+            <div><dt>Backend</dt><dd>Spring Boot, Spring Data JPA, Hibernate, REST APIs, FastAPI</dd></div>
+            <div><dt>Frontend</dt><dd>HTML, CSS, JavaScript, React, Recharts</dd></div>
+            <div><dt>Database</dt><dd>MySQL, SQL</dd></div>
+            <div><dt>AI and ML</dt><dd>scikit-learn, machine learning, face recognition, InsightFace</dd></div>
+            <div><dt>Tools</dt><dd>Git, GitHub, Gradle, Postman, Swagger/OpenAPI</dd></div>
+            <div><dt>Core</dt><dd>Data structures and algorithms, OOP, DBMS, DTOs, validation, exception handling</dd></div>
+          </dl>
+
+          <h3 class="sub">Get in touch</h3>
+          <ul class="contact">
+            <li><a href="mailto:mallicksayan407@gmail.com">mallicksayan407@gmail.com</a></li>
+            <li><a href="tel:+918240035364">+91 82400 35364</a></li>
+            <li><a href="https://www.linkedin.com/in/subrata-mallick-3b4ba4352" target="_blank" rel="noopener">LinkedIn</a></li>
+            <li><a href="https://github.com/MallickSayan407" target="_blank" rel="noopener">GitHub</a></li>
+            <li>Garulia, West Bengal</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- ACADEMICS -->
+    <section id="academics" class="section" aria-labelledby="academics-h">
+      <div class="wrap split">
+        <h2 id="academics-h">Academics</h2>
+        <div class="content">
+          <ol class="timeline">
+            <li>
+              <span class="when">2022 – 2026</span>
+              <h3>B.Tech in Electronics and Communication Engineering</h3>
+              <p>Academy of Technology</p>
+              <p class="score">CGPA 7.95</p>
+            </li>
+            <li>
+              <span class="when">2022</span>
+              <h3>Higher Secondary (12th)</h3>
+              <p>Bhatpara Amarkrishna Pathsala (H.S.)</p>
+              <p class="score">80.8%</p>
+            </li>
+            <li>
+              <span class="when">2020</span>
+              <h3>Secondary (10th)</h3>
+              <p>Bhatpara Amarkrishna Pathsala</p>
+              <p class="score">88.85%</p>
+            </li>
+          </ol>
+
+          <h3 class="sub">Academic project</h3>
+          <div class="acad-project">
+            <span class="when">2024 – 2026</span>
+            <h3>Substrate analysis on the design of a wide-band antenna for 5G sub-6 GHz communication</h3>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- PROJECTS -->
+    <section id="projects" class="section" aria-labelledby="projects-h">
+      <div class="wrap split">
+        <h2 id="projects-h">Projects</h2>
+        <div class="content projects">
+
+          <article class="project">
+            <div class="project-head">
+              <h3>Cricket Analytics</h3>
+              <p class="stack">Java 21, Spring Boot, MySQL, Python, React, JavaScript, Recharts</p>
+              <p class="links">
+                <a href="https://cricket-analytics-two.vercel.app" target="_blank" rel="noopener">Live site</a>
+                <a href="https://github.com/MallickSayan407/CricketAnalytics" target="_blank" rel="noopener">Source on GitHub</a>
+              </p>
+            </div>
+            <ul class="project-body">
+              <li>A full-stack analytics platform for international cricket and IPL data, built on Spring Boot, Spring Data JPA, Hibernate and MySQL with a React frontend.</li>
+              <li>Modules for players, teams, matches, venues, seasons, leaderboards and player comparison, with competition and season filters and interactive charts.</li>
+              <li>An ODI match prediction service in Python and scikit-learn, served through FastAPI and wired into the Spring Boot backend.</li>
+              <li>A Monte Carlo ODI tournament simulator that estimates qualification and championship probabilities.</li>
+            </ul>
+          </article>
+
+          <article class="project">
+            <div class="project-head">
+              <h3>Face Attendance System</h3>
+              <p class="stack">Java 21, Spring Boot, MySQL, Python, InsightFace, HTML, CSS, JavaScript</p>
+              <p class="links">
+                <a href="https://github.com/MallickSayan407/face-attendance-system" target="_blank" rel="noopener">Source on GitHub</a>
+              </p>
+            </div>
+            <ul class="project-body">
+              <li>A full-stack employee attendance system with a layered Spring Boot, Spring Data JPA, Hibernate and MySQL architecture.</li>
+              <li>REST APIs for employee management, image upload, attendance tracking, duplicate prevention and attendance summaries, using DTOs and centralized exception handling.</li>
+              <li>A Python InsightFace recognition service integrated with the backend, plus a web frontend for managing employees and marking attendance by face.</li>
+            </ul>
+          </article>
+
+          <article class="project">
+            <div class="project-head">
+              <h3>Employee Management System</h3>
+              <p class="stack">Java 21, Spring Boot, MySQL, HTML, CSS, JavaScript</p>
+              <p class="links">
+                <a href="https://github.com/MallickSayan407/employee-management" target="_blank" rel="noopener">Source on GitHub</a>
+              </p>
+            </div>
+            <ul class="project-body">
+              <li>A full-stack employee management app with a layered architecture on Spring Boot, Spring Data JPA, Hibernate and MySQL.</li>
+              <li>RESTful CRUD APIs with DTOs, validation, exception handling, pagination, sorting, and employee search and filtering.</li>
+              <li>Frontend built by hand; API documentation with Swagger/OpenAPI, testing with Postman, and Gradle, Git and GitHub for builds and version control.</li>
+            </ul>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- TRAINING & CERTIFICATION -->
+    <section id="training" class="section" aria-labelledby="training-h">
+      <div class="wrap split">
+        <h2 id="training-h">Training and certification</h2>
+        <div class="content">
+
+          <article class="cert" data-pdf="assets/Wipro_TalentNext_Java_Full_Stack_Certificate.pdf">
+            <div class="cert-head">
+              <div>
+                <h3>Java Full Stack — Digital Skills Readiness Program</h3>
+                <p class="cert-meta">Wipro TalentNext · July to October 2025</p>
+                <p class="cert-note">Course completion certificate. Certificate ID TNext_SE_25_J_250010441.</p>
+              </div>
+              <div class="cert-actions">
+                <button type="button" class="btn btn-ghost cert-toggle" aria-expanded="false">View certificate</button>
+                <a class="btn btn-ghost" href="assets/Wipro_TalentNext_Java_Full_Stack_Certificate.pdf" download>Download</a>
+              </div>
+            </div>
+            <div class="pdf-panel" hidden>
+              <div class="pdf-host" aria-live="polite"></div>
+              <p class="pdf-fallback"><a href="assets/Wipro_TalentNext_Java_Full_Stack_Certificate.pdf" target="_blank" rel="noopener">Open the certificate in a new tab</a></p>
+            </div>
+          </article>
+
+          <article class="cert" data-pdf="assets/Eastern_Railway_Training_Certificate.pdf">
+            <div class="cert-head">
+              <div>
+                <h3>Industrial training, Sealdah Division</h3>
+                <p class="cert-meta">Eastern Railway · 7 to 31 July 2025</p>
+                <p class="cert-note">Completed in EI, telecom works, OFC, LC gate, UTS and PRS, and certified by the Senior Divisional Signal &amp; Telecom Engineer, Sealdah.</p>
+              </div>
+              <div class="cert-actions">
+                <button type="button" class="btn btn-ghost cert-toggle" aria-expanded="false">View certificate</button>
+                <a class="btn btn-ghost" href="assets/Eastern_Railway_Training_Certificate.pdf" download>Download</a>
+              </div>
+            </div>
+            <div class="pdf-panel" hidden>
+              <div class="pdf-host" aria-live="polite"></div>
+              <p class="pdf-fallback"><a href="assets/Eastern_Railway_Training_Certificate.pdf" target="_blank" rel="noopener">Open the certificate in a new tab</a></p>
+            </div>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- HOBBIES -->
+    <section id="hobbies" class="section" aria-labelledby="hobbies-h">
+      <div class="wrap split">
+        <h2 id="hobbies-h">Hobbies</h2>
+        <div class="content">
+          <ul class="hobbies">
+            <li>Cricket</li>
+            <li>Football</li>
+            <li>Recitation</li>
+          </ul>
+          <p class="hobby-note">Cricket also turned into a project: see <a href="#projects">Cricket Analytics</a>.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- RESUME -->
+    <section id="resume" class="section" aria-labelledby="resume-h">
+      <div class="wrap split">
+        <h2 id="resume-h">Resume</h2>
+        <div class="content">
+          <div class="actions resume-actions">
+            <a class="btn btn-primary" href="assets/Subrata_Mallick_Resume.pdf" download="Subrata_Mallick_Resume.pdf">Download resume</a>
+            <a class="btn btn-ghost" href="assets/Subrata_Mallick_Resume.pdf" target="_blank" rel="noopener">Open in new tab</a>
+          </div>
+          <div class="pdf-panel resume-panel" id="resume-panel" data-pdf="assets/Subrata_Mallick_Resume.pdf">
+            <div class="pdf-host" id="resume-host" aria-live="polite"></div>
+            <p class="pdf-fallback"><a href="assets/Subrata_Mallick_Resume.pdf" target="_blank" rel="noopener">Can't see the resume? Open the PDF directly.</a></p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap footer-inner">
+      <p>© 2026 Subrata Mallick</p>
+      <p><a href="#top">Back to top</a></p>
+    </div>
+  </footer>
+
+  <!-- Theme picker -->
+  <div class="theme-picker">
+    <button type="button" class="theme-btn" id="themeBtn" aria-haspopup="true" aria-expanded="false" aria-controls="themeMenu">
+      <span class="theme-dot" aria-hidden="true"></span>
+      <span id="themeLabel">Theme</span>
+    </button>
+    <ul class="theme-menu" id="themeMenu" hidden>
+      <li><button type="button" data-pref="auto">Auto (follow my clock)</button></li>
+      <li><button type="button" data-pref="dawn">Dawn</button></li>
+      <li><button type="button" data-pref="day">Day</button></li>
+      <li><button type="button" data-pref="evening">Evening</button></li>
+      <li><button type="button" data-pref="night">Night</button></li>
+    </ul>
+  </div>
+</body>
+</html>
