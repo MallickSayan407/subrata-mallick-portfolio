@@ -1,114 +1,646 @@
 %PDF-1.4
-%ìåãû ReportLab Generated PDF document (opensource)
+%‚„œ”
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://www.linkedin.com/in/subrata-mallick-3b4ba4352)
->> /Border [ 0 0 0 ] /Rect [ 338.9393 772.5087 546.3138 782.7087 ] /Subtype /Link /Type /Annot
+/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R ]
+/Contents 14 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 15 0 R
+/F1-0 16 0 R
+/F2 17 0 R
+/F2-0 18 0 R
+/F3 19 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://cricket-analytics-two.vercel.app)
->> /Border [ 0 0 0 ] /Rect [ 45.68504 484.5687 184.2158 494.4087 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056linkedin\056com\057in\057subrata\055mallick\0553b4ba4352)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 423.7514 776.338 457.4786 787.378 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/MallickSayan407/CricketAnalytics)
->> /Border [ 0 0 0 ] /Rect [ 195.4662 484.5687 385.042 494.4087 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057schoolbuddy\055frontend\056vercel\056app)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 59.1819 516.298 201.5641 526.978 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/MallickSayan407/face-attendance-system)
->> /Border [ 0 0 0 ] /Rect [ 45.68504 377.1837 264.4446 387.3837 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057MallickSayan407\057schoolbuddy\055frontend)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 251.2528 516.298 462.6278 526.978 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/MallickSayan407/employee-management)
->> /Border [ 0 0 0 ] /Rect [ 45.68504 281.6837 263.0752 291.8837 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057MallickSayan407\057schoolbuddy\055backend)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 37.1811 505.698 248.0577 516.378 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 9 0 obj
 <<
-/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R ] /Contents 13 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 12 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057cricket\055analytics\055two\056vercel\056app)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 59.1819 336.998 198.0931 347.678 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 10 0 obj
 <<
-/PageMode /UseNone /Pages 12 0 R /Type /Catalog
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057MallickSayan407\057CricketAnalytics)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 241.3649 336.998 434.4504 347.678 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 11 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260919061011+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260919061011+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057MallickSayan407\057face\055attendance\055system)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 71.5529 263.898 287.8496 274.578 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 12 0 obj
 <<
-/Count 1 /Kids [ 9 0 R ] /Type /Pages
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057MallickSayan407\057employee\055management)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 71.5529 201.998 287.369 212.678 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 13 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2876
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056linkedin\056com\057in\057subrata\055mallick\0553b4ba4352)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 332.9341 773.5898 526.5385 784.5898 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/Length 9471
 >>
 stream
-Gau0EhfIdJ%Xt%b68,g5\H-1Z)oFcY+XCJ3&f."l\uND"FpE?R+)JOubLZ[_Vf(6s1+%6$8Q(7n[aieRl"`j-T]<e\?G-p.dY68[!JUpK',[$IJNJU[qruF&7Xh7HCRqW1>MsU?c-a-55)7=m>3="(.)FOD755qm1r4-q^n)6QFF%+lfA!h'qJ\0=\=E6J5"th5nS%FXB5mkNpYX=[^(#5[%KEL$E/]r$a4kC<<1p@]:<0V$R3]\38k:JEEqp"Ke`#MBn2+OK!Pd)O^a4u+,QLXZ?2Tml!5A)aB%OCd1V;JJ^0;(=&2<Q5+Zg<>](;P*86DO1EVS@\lDj)3h<8uHZOFb9fV!BJT;0n=$*d7>[T_GQ<XW%%9RR[J8M(^cP'"Ns+O,;GAp[r<Lt/rY4atFP^Oi(pQLHu<cS;dr#-IHuT&D)MAdfL)g&:S_4s/V<ouAb9Qq[@_rtS/>U4q.JoRdnhD"4*8-e4X@I#=/E&8]%^olSs.%fsmMb1Cd\4;4jaNb2fkak4ZYf$H1QL4^X#3Up#l-u>;R_2:X0dYoEDJ#t/42"E%G;APphQLL+C5r0+kHNpc^UPFY5EKi_WaOP3>K0_D&F8=cMN^X$s]D6C*##'5M'h8_#;;qnt*FLdq]*3QurTP`Xi/2Dc&?i&DCEELA4co`&2K>s`ib0Sc8')'PKA0<=6+FC5!q/cBD86fN761&#A]1BB%1HBEO!k-qn4:](EssoZ>P'YmpA8c1P*1@oXfPCbTglQ&TSSU*:4kR'cVat(UagcD%&C=n`(si83!DNF5/]nJEI_H"."4;\&"eqcm3!!'<a*Ei2%3>cA$:G_B0jm(\N/NO#\_jaEncdj('KJ;52&&'ZP3j5+7no>E-jM^aFO;51`jtYB](k=rIOKVpFqu8=V5r0O`hGD/a^ZtrBQ'H&hR%fUrc\L9.;/>o'dZIq/V9mq:49\ClP,N:esXR99Lq\ZXBjGGE`@.LF[I&I%0gKE6B#]8!nE.PmT;)Op50T7,Y]"SZX\n7.jTimKA_i0V9G&XKkQ,]G9BLWK_^o#@<,64Ep=lo#^m02&TIXQ?_baM5JEV,_.u`a*A:i)_k3&j[:+X$!XQc>c?H"NT6\S@5eUs_jB,"JQHBe!7@=VM$OD[SSuVj8U9WN9qtXS%UraU\T6/(n5OC#!l$ub=N2?F0gmDFhbP21FZDapYM=L&ikNPT507UYroMP8U6/YRAN\h8kEEo/\tu)!q6V/K4Uh0>SlBj@DJRfnk,[;g0iD!do4kjCC+]]D4IW,L_Z6YWF+AOm@`^nUL1uko5qn7`(hT!KJ04UY+6\'iVr8-F-]et93/En_0Qki4fc@_KWp?%I@(D^!^Oi6Rll*B;S^P(K_fjpH5#@8pNYb2LiB):s0MJ`tr*3gfjbejOi<9!#iQla:Xs*pG,$#!V#X3O7c*bU<Gb[)303qlLri:b[D%d<-2k+c^]Da_EQ--[;\Z9l?3]^bfhgOCVn(Vg>ei<G@I+%f*7'_+shXtK!$oh;:<'WYl_+nAF<B3F<*FKdC9":5N9^.(Q'd]nrSYQ@!K3m1Q'iWplSPI&FXD=!9\u+-"g4jX/"r\7a7k+B\_tQK`8FPe02'S6cqj?Qk:+Jj'(qeH0mH@aNe[iBu7QW,&.dHS:hVML")NI`GN(LP]c`Mr8eZ]O>G`$bP?G'-7W+oF;AfsNOcZaWNLXC4FMVuskH`:U+$ng%U=i)/t864Wk0W@pT>1fBfh@$8Tlr2&OKX%-RG^^ka&t9p'GZkJIj=),_iN4NBg!D.4f7]:iH^TWT(OX@A1#[S)dU\C_W$,%R_jaW'oF_hJ9SFs1>+$pd6?P%J8287'L^Mm539iKgPkLDOQLb(S!\/g!X&0'jWBW^'pkE4JQ3Be#YK,06p5!^_)ReYI"N62<l#KeRZ?t&3.n0E'W/27Ca`tRmC-gs*V+<-U^,dZN4)CHRaXl*D$qR.4ND5f,4([8CAFU*2_Lkr6-K5_L?aY4e$WB_]N%l2_InII>'kN4Y*m$-A95%@BXa3(7?i^qQ/5R"'E<"Ub7_A!abUK2Wn%Olh"He-2I$Y*W^A00*ea8@]*osuSg.pf?/ZX0d?oHHVc]'tr/dDPSZ3R(k*'eaS;qq4h8uEMInW$L,kQdN)Gp_*[.[@&6puTV%79PN"kj]pp7[CI,mX&nr'.YCs\"+SMgEQdW2oI2>p6]5hLRl%N\H]8Lha32N`,Cmf'$.<'WmC=dCd:E84!D`7o<F6k)IhOEkl+!%V(Mp6)<A*DbOSaFIO&VP@W^MiXn"BR%W8lNIN1Q*;_!Muk2W=TjSa+&Q3Um,3*$p^Q\'9O(\!Yb*i(l(L/<SJPRNggR6CkgCLC]HbS#R.0Z+>-FX@?9?>$f`ML-S;RFkaBpsAhLfW;m'H,.1LRWbUY-@IS5Plp&#1G4r`hk)^&M+tsTo$PWG<)NT`68L4Z/@E6hClh&>OMG8tE0V$(dP@:1D+[a%n*-VKCU.JJ^7N8J'P6>H==c5TbgsMLXC"GaVZ)$5pVHlm;taI9>kYk$`g,\.`Sg0=A^$8GoG$uAo$NN3<5P%J+_XarnM10Mj[g_N*brLNTT7q&m\so@XV"(78;&fQCTF_'"5I4WE(,n@,<9W;Sb\ERj\H3rQ\['-ll3`q&]^Bq^Q/V&Vh\?tK5(%k82_9hMTOCo4,oh\b0GD.@I1*I-6TMbh<q@/\f9J]^b7AYcJ6h?W:%=Gkh7+>D_rHom-eA\1\kKF1!fR4],VT,_P4,oL)FF9QL#`RHo7B<JPRtf)>8+AmVGFNOmUSIara*^0n5MLip/l4`WN_JFkMC/c`49RNM2MD\)6lQSC*lhPak]cCTI?+5NE[KF-QR5UU!H\"0V10=Q#UGVGKr+Ep-mOI/6(2XG<k~>endstream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.090196 .290196 .545098 RG
+.6 w
+n 31.1811 19.84252 m 564.0945 19.84252 l S
+Q
+q
+1 0 0 1 37.1811 789.378 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 19 Tf 21 TL 166.2452 0 Td (SUBRATA MALLICK) Tj T* -166.2452 0 Td ET
+Q
+Q
+q
+1 0 0 1 37.1811 776.378 cm
+q
+BT 1 0 0 1 0 1.8 Tm 100.6159 0 Td 11 TL /F3 9.2 Tf 0 0 0 rg (Garulia, West Bengal  ) Tj (|) Tj (  +91-8240035364  ) Tj (|) Tj (  mallicksayan407@gmail.com  ) Tj (|) Tj (  ) Tj (LinkedIn) Tj T* -100.6159 0 Td ET
+Q
+Q
+q
+1 0 0 1 37.1811 757.878 cm
+q
+.090196 .290196 .545098 rg
+BT 1 0 0 1 0 1.7 Tm /F2 11.8 Tf 13.5 TL (PROFESSIONAL SUMMARY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 719.278 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 25.5 Tm /F3 9.6 Tf 11.7 TL (ECE graduate with hands-on experience building full-stack and AI-powered applications using Java, Spring Boot, MySQL, Python,) Tj T* (React/Next.js and REST APIs. Experienced in backend architecture, multimodal AI integration, machine learning, database design and) Tj T* (production deployment. Seeking an entry-level software development role.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 702.278 cm
+q
+.090196 .290196 .545098 rg
+BT 1 0 0 1 0 1.7 Tm /F2 11.8 Tf 13.5 TL (TECHNICAL SKILLS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 688.178 cm
+q
+BT 1 0 0 1 0 1.7 Tm 10.6 TL /F2 8.9 Tf 0 0 0 rg (Languages:) Tj /F3 8.9 Tf ( Java, C++, Python, JavaScript, TypeScript, C) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 676.378 cm
+q
+BT 1 0 0 1 0 1.7 Tm 10.6 TL /F2 8.9 Tf 0 0 0 rg (Backend:) Tj /F3 8.9 Tf ( Spring Boot, Spring Data JPA, Hibernate, REST APIs, FastAPI) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 664.578 cm
+q
+BT 1 0 0 1 0 1.7 Tm 10.6 TL /F2 8.9 Tf 0 0 0 rg (Frontend:) Tj /F3 8.9 Tf ( HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Recharts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 652.778 cm
+q
+BT 1 0 0 1 0 1.7 Tm 10.6 TL /F2 8.9 Tf 0 0 0 rg (Database:) Tj /F3 8.9 Tf ( MySQL, SQL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 640.978 cm
+q
+BT 1 0 0 1 0 1.7 Tm 10.6 TL /F2 8.9 Tf 0 0 0 rg (AI/ML:) Tj /F3 8.9 Tf ( scikit-learn, Machine Learning, Face Recognition, InsightFace, Gemini Multimodal API, Prompt Engineering) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 629.178 cm
+q
+BT 1 0 0 1 0 1.7 Tm 10.6 TL /F2 8.9 Tf 0 0 0 rg (Tools:) Tj /F3 8.9 Tf ( Git, GitHub, Gradle, Postman, Swagger/OpenAPI, IntelliJ IDEA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 617.378 cm
+q
+BT 1 0 0 1 0 1.7 Tm 10.6 TL /F2 8.9 Tf 0 0 0 rg (Core:) Tj /F3 8.9 Tf ( DSA, OOP, DBMS, DTOs, Validation, Exception Handling) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 600.378 cm
+q
+.090196 .290196 .545098 rg
+BT 1 0 0 1 0 1.7 Tm /F2 11.8 Tf 13.5 TL (EDUCATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 585.178 cm
+q
+BT 1 0 0 1 0 2.1 Tm 11.7 TL /F2 9.6 Tf 0 0 0 rg (B.Tech \227 Electronics and Communication Engineering) Tj /F3 9.6 Tf ( | Academy of Technology | 2022\2262026 | CGPA: 7.95) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 572.778 cm
+q
+BT 1 0 0 1 0 1.7 Tm 10.6 TL /F2 8.9 Tf 0 0 0 rg (Higher Secondary \(12th\)) Tj /F3 8.9 Tf ( | Bhatpara Amarkrishna Pathsala \(H.S.\) | 2022 | 80.8%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 560.978 cm
+q
+BT 1 0 0 1 0 1.7 Tm 10.6 TL /F2 8.9 Tf 0 0 0 rg (Secondary \(10th\)) Tj /F3 8.9 Tf ( | Bhatpara Amarkrishna Pathsala | 2020 | 88.85%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 543.978 cm
+q
+.090196 .290196 .545098 rg
+BT 1 0 0 1 0 1.7 Tm /F2 11.8 Tf 13.5 TL (PROJECTS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 528.478 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F2 10.1 Tf 12 TL (SchoolBuddy.ai \227 AI-Powered Multimodal Educational Tutor | Java, Spring Boot, React/Next.js, MySQL, Gemini API) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 505.778 cm
+q
+BT 1 0 0 1 0 12.3 Tm 10.6 TL /F2 8.9 Tf 0 0 0 rg (Live:) Tj /F3 8.9 Tf ( ) Tj (https://schoolbuddy-frontend.vercel.app) Tj (  ) Tj (  ) Tj /F2 8.9 Tf (Frontend:) Tj /F3 8.9 Tf ( ) Tj (https://github.com/MallickSayan407/schoolbuddy-frontend) Tj (  ) Tj (  ) Tj /F2 8.9 Tf (Backend:) Tj /F3 8.9 Tf  T* (https://github.com/MallickSayan407/schoolbuddy-backend) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 482.178 cm
+q
+0 0 0 rg
+BT 1 0 0 1 9 13.15 Tm /F3 9.25 Tf 11.2 TL -5 0 Td (\177 Developed a full-stack AI tutoring platform for Grade 1\22610 students supporting text and image-based questions with grade-aware) Tj T* 5 0 Td (responses across Math, Science and English.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 458.278 cm
+q
+0 0 0 rg
+BT 1 0 0 1 9 13.15 Tm /F3 9.25 Tf 11.2 TL -5 0 Td (\177 Built a Spring Boot REST backend with MySQL conversation persistence, DTO-based APIs, validation, centralized exception handling) Tj T* 5 0 Td (and contextual multi-turn conversations.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 434.378 cm
+q
+0 0 0 rg
+BT 1 0 0 1 9 13.15 Tm /F3 9.25 Tf 11.2 TL -5 0 Td (\177 Integrated multimodal Gemini AI with a multi-model fallback strategy, grade-specific prompting and learning modes: Explain, Solve,) Tj T* 5 0 Td (Hint, Simplify, Practice and Quiz.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 410.478 cm
+q
+0 0 0 rg
+BT 1 0 0 1 9 13.15 Tm /F3 9.25 Tf 11.2 TL -5 0 Td -0.00758 Tw (\177 Developed a responsive Next.js/React frontend with grade/subject selection, image upload, conversation UI, Markdown/KaTeX rendering) Tj T* 0 Tw 5 0 Td (and real-time AI interaction.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 386.578 cm
+q
+0 0 0 rg
+BT 1 0 0 1 9 13.15 Tm /F3 9.25 Tf 11.2 TL -5 0 Td (\177 Implemented mathematical response normalization and educational prompting for LaTeX formatting, age-appropriate explanations and) Tj T* 5 0 Td (structured step-by-step solutions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 362.678 cm
+q
+0 0 0 rg
+BT 1 0 0 1 9 13.15 Tm /F3 9.25 Tf 11.2 TL -5 0 Td (\177 Deployed frontend on Vercel, backend on Render and database on Aiven MySQL; production-tested text, mathematical, conversational) Tj T* 5 0 Td (and image-based workflows.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 349.178 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F2 10.1 Tf 12 TL (Cricket Analytics | Java 21, Spring Boot, MySQL, Python, React, JavaScript, Recharts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 337.078 cm
+q
+BT 1 0 0 1 0 1.7 Tm 10.6 TL /F2 8.9 Tf 0 0 0 rg (Live:) Tj /F3 8.9 Tf ( ) Tj (https://cricket-analytics-two.vercel.app) Tj (  ) Tj (  ) Tj /F2 8.9 Tf (GitHub:) Tj /F3 8.9 Tf ( ) Tj (https://github.com/MallickSayan407/CricketAnalytics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 313.478 cm
+q
+0 0 0 rg
+BT 1 0 0 1 9 13.15 Tm /F3 9.25 Tf 11.2 TL -5 0 Td (\177 Built a full-stack cricket analytics platform covering international and IPL data with players, teams, matches, venues, seasons,) Tj T* 5 0 Td (leaderboards, filtering and visualization.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 289.578 cm
+q
+0 0 0 rg
+BT 1 0 0 1 9 13.15 Tm /F3 9.25 Tf 11.2 TL -5 0 Td (\177 Integrated a Python/scikit-learn ODI prediction service through FastAPI and added a Monte Carlo tournament simulator for outcome) Tj T* 5 0 Td (analysis.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 276.078 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F2 10.1 Tf 12 TL (Face Attendance System | Java 21, Spring Boot, MySQL, Python, InsightFace, HTML, CSS, JavaScript) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 263.978 cm
+q
+BT 1 0 0 1 0 1.7 Tm 10.6 TL /F2 8.9 Tf 0 0 0 rg (GitHub:) Tj /F3 8.9 Tf ( ) Tj (https://github.com/MallickSayan407/face-attendance-system) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 240.378 cm
+q
+0 0 0 rg
+BT 1 0 0 1 9 13.15 Tm /F3 9.25 Tf 11.2 TL -5 0 Td (\177 Developed a full-stack employee attendance system using layered architecture, REST APIs, image upload, attendance records, duplicate) Tj T* 5 0 Td (prevention and summary reporting.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 227.678 cm
+q
+0 0 0 rg
+BT 1 0 0 1 9 1.95 Tm /F3 9.25 Tf 11.2 TL -5 0 Td (\177 Integrated Python InsightFace with Spring Boot and implemented DTOs and centralized exception handling for reliable API workflows.) Tj T* 5 0 Td ET
+Q
+Q
+q
+1 0 0 1 37.1811 214.178 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F2 10.1 Tf 12 TL (Employee Management System | Java, Spring Boot, MySQL, HTML, CSS, JavaScript) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 202.078 cm
+q
+BT 1 0 0 1 0 1.7 Tm 10.6 TL /F2 8.9 Tf 0 0 0 rg (GitHub:) Tj /F3 8.9 Tf ( ) Tj (https://github.com/MallickSayan407/employee-management) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 178.478 cm
+q
+0 0 0 rg
+BT 1 0 0 1 9 13.15 Tm /F3 9.25 Tf 11.2 TL -5 0 Td (\177 Implemented CRUD APIs with DTOs, validation, centralized exception handling, pagination, sorting, search/filtering and) Tj T* 5 0 Td (Swagger/OpenAPI documentation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 161.478 cm
+q
+.090196 .290196 .545098 rg
+BT 1 0 0 1 0 1.7 Tm /F2 11.8 Tf 13.5 TL (ACADEMIC PROJECT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 146.278 cm
+q
+BT 1 0 0 1 0 2.1 Tm 11.7 TL /F2 9.6 Tf 0 0 0 rg (Substrate Analysis on the Design of Wide-band Antenna for 5G Sub-6 GHz Communication) Tj /F3 9.6 Tf ( | 2024\2262026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 129.278 cm
+q
+BT 1 0 0 1 0 1.7 Tm 13.5 TL /F2 11.8 Tf .090196 .290196 .545098 rg (TRAINING & CERTIFICATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 114.078 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.1 Tm /F3 9.6 Tf 11.7 TL (Railway Training under Sealdah Division) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 97.07795 cm
+q
+.090196 .290196 .545098 rg
+BT 1 0 0 1 0 1.7 Tm /F2 11.8 Tf 13.5 TL (INTERESTS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 37.1811 81.87795 cm
+q
+BT 1 0 0 1 0 2.1 Tm 11.7 TL /F3 9.6 Tf 0 0 0 rg (Cricket  ) Tj (|) Tj (  Football  ) Tj (|) Tj (  Recitation) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+32 771.8898 531.2756 22 re
+f*
+BT
+/F2-0 8.5 Tf
+10.2 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 68.73705 775.5898 Tm
+(Garulia\054 West Bengal  \174  \05391\0558240035364  \174  mallicksayan407\100gmail\056com  \174  https\072\057\057www\056linkedin\056com\057in\057subrata\055mallick\0553b4ba4352) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+15 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+16 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+17 0 obj
+<<
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+19 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 14
+0 20
 0000000000 65535 f 
-0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000526 00000 n 
-0000000718 00000 n 
-0000000920 00000 n 
-0000001129 00000 n 
-0000001335 00000 n 
-0000001582 00000 n 
-0000001652 00000 n 
-0000001933 00000 n 
-0000001993 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000491 00000 n 
+0000000721 00000 n 
+0000000927 00000 n 
+0000001153 00000 n 
+0000001377 00000 n 
+0000001587 00000 n 
+0000001807 00000 n 
+0000002038 00000 n 
+0000002262 00000 n 
+0000002495 00000 n 
+0000012019 00000 n 
+0000012127 00000 n 
+0000012235 00000 n 
+0000012344 00000 n 
+0000012454 00000 n 
 trailer
 <<
-/ID 
-[<8b4bc95eef5fd54001386a295bf6d339><8b4bc95eef5fd54001386a295bf6d339>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 11 0 R
-/Root 10 0 R
-/Size 14
+/Size 20
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-4961
+12564
+%%EOF
+3 1 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+ /AF [21 0 R] /Names << /EmbeddedFiles << /Names [(Content Credentials) 21 0 R] >> >> >>
+endobj
+20 0 obj
+<< /Length 24280 /Type /EmbeddedFile /Subtype /application#2Fc2pa >>
+stream
+  ^ÿjumb   jumdc2pa  Ä  ™ 8õqc2pa   ^≤jumb   Gjumdc2ma  Ä  ™ 8õqurn:c2pa:05bd9b75-b5d4-4b4f-9661-36f00a0a35be   ¢jumb   )jumdc2as  Ä  ™ 8õqc2pa.assertions   	πjumb   #jumd@À2ªäHùß*÷ÙCic2pa.icon    bfdb image/svg+xml   	wbidb<svg width="716" height="716" viewBox="0 0 716 716" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M508.749 317.399C516.777 287.314 508.991 253.884 485.389 230.282C461.788 206.681 428.36 198.895 398.273 206.923C376.231 184.928 343.39 174.956 311.148 183.596C278.906 192.234 255.45 217.292 247.36 247.361C217.291 255.451 192.233 278.91 183.595 311.149C174.957 343.391 184.927 376.232 206.924 398.274C198.896 428.359 206.683 461.789 230.284 485.391C253.885 508.992 287.313 516.779 317.401 508.75C339.442 530.745 372.286 540.717 404.525 532.079C436.767 523.441 460.223 498.384 468.313 468.315C498.383 460.224 523.44 436.766 532.078 404.526C540.716 372.285 530.747 339.443 508.749 317.402V317.399ZM470.899 244.776C486.892 260.77 493.488 282.601 490.687 303.412L415.577 260.046C412.411 258.218 408.509 258.218 405.345 260.046L317.401 310.82V277.526C317.401 275.191 318.652 273.005 320.676 271.837L387.644 233.174C414.178 218.353 448.346 222.223 470.901 244.776H470.899ZM357.837 311.144L398.275 334.491V381.185L357.837 404.532L317.398 381.185V334.491L357.837 311.144ZM264.776 269.693C265.207 239.305 285.644 211.649 316.453 203.393C338.3 197.54 360.505 202.744 377.127 215.573L302.014 258.937C298.848 260.764 296.898 264.144 296.898 267.798V369.346L268.065 352.699C266.043 351.531 264.776 349.353 264.776 347.017V269.691V269.693ZM203.391 316.454C209.244 294.608 224.854 277.978 244.276 269.999V356.73C244.276 360.384 246.226 363.763 249.392 365.591L337.337 416.365L308.503 433.013C306.481 434.181 303.961 434.188 301.939 433.02L234.971 394.357C208.868 378.789 195.138 347.261 203.391 316.454ZM244.775 470.9C228.781 454.906 222.186 433.075 224.986 412.264L300.096 455.63C303.263 457.457 307.164 457.457 310.328 455.63L398.273 404.856V438.149C398.273 440.485 397.022 442.671 394.997 443.839L328.029 482.502C301.495 497.322 267.327 493.452 244.772 470.9H244.775ZM450.897 445.982C450.466 476.371 430.029 504.027 399.22 512.283C377.373 518.136 355.168 512.932 338.547 500.102L413.659 456.738C416.826 454.911 418.775 451.532 418.775 447.877V346.329L447.609 362.977C449.631 364.145 450.897 366.323 450.897 368.659V445.985V445.982ZM512.282 399.221C506.429 421.068 490.819 437.697 471.397 445.676V358.946C471.397 355.292 469.448 351.912 466.281 350.085L378.336 299.311L407.17 282.663C409.192 281.495 411.712 281.487 413.734 282.655L480.702 321.318C506.805 336.887 520.536 368.415 512.282 399.221Z" fill="black"/>
+</svg>
+  jumb   )jumdcbor  Ä  ™ 8õqc2pa.actions.v2    „cbor¢gactionsÅ§factionlc2pa.createdqdigitalSourceTypexFhttp://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMediamsoftwareAgent¢dnameggpt-5-6gversionggpt-5-6dwhenx2026-10-06T08:42:33.104967ZrallActionsIncludedÙ   §jumb   (jumdcbor  Ä  ™ 8õqc2pa.hash.data    tcbor•jexclusionsÅ¢estart3œflength^ÿdnamenjumbf manifestcalgfsha256dhashX ·î˘âL
+sî≠ﬂ12Vˇwx:•ûˆò¬€Xn°0Êcpad@  âjumb   'jumdc2cl  Ä  ™ 8õqc2pa.claim.v2   Zcbor¶jinstanceIDx,xmp:iid:c028b9bc-168e-443c-9651-adcc17969ca2tclaim_generator_info£dnamegChatGPTdicon¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„ÒkspecVersione2.2.0isignaturexMself#jumbf=/c2pa/urn:c2pa:05bd9b75-b5d4-4b4f-9661-36f00a0a35be/c2pa.signaturercreated_assertionsÉ¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„Ò¢curlx*self#jumbf=c2pa.assertions/c2pa.actions.v2dhashX £'˛Á}#¥M•◊±ßiSõV´tﬂ _Êqr+òRT¢curlx)self#jumbf=c2pa.assertions/c2pa.hash.datadhashX ,4ò24ÆY¥ƒÉ∑´
+áØ^Û⁄nÊë—JBq≥[†!vhdc:titleiimage.pdfcalgfsha256  P8jumb   (jumdc2cs  Ä  ™ 8õqc2pa.signature   Pcbor“ÑYË¢8$!ÇYà0ÇÑ0Çl†•¸ÈpåÚÄ1ÓDds0	*ÜHÜ˜ 0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0260422155105Z270423155104Z0G10	UUS10U
+OpenAI OpCo, LLC10UOpenAI Media Service0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ù∫jLMóÍÅâ∂—æ^XNr°ôﬂiq|Â!#”Å¢5úL£J<Ôn+øÊdÆ◊ÑKi$ZcœÍv
+ê≤e€|<ç·˛¡3wØ'ﬁ; :¥cáòÕMúø¥3D™T07F∏˝öyDsWU£c|›¨X/ÊzÆﬁ•ò√ìNHZ¯‡|§íK’l∫ ¬*»íæu‘îgµW™jöm00,◊Uaåj“S∂ x^ECûNí£ÄÒØ[—≤Î˛ãÔ∫◊7	ï´d-ô…áö¯ø.–ÁcÄñöy†7ì6£5…H…,òcÈDõ5¨πßSlúhs»
+9ÃIÛ £Çg0Çc0Uˇ0 0U#0Ä9=G‹óèØà{MsÕÂÓ§•*0o+c0a09+0Ü-http://crt-c2pa.ssl.com/SSL.com-C2PA-I-R1.cer0$+0Ühttp://ocsp-c2pa.ssl.com0U 00
++ÉË^0)U%"0 ++$
++ÉË^0UÛùM‘Àùr¯F
+vG•hOt0Uˇ¿0	+ÉË^
++ÉË^
+03	+ÉË^&$019bc403-5cd7-7669-afe6-fdb17177d4280	*ÜHÜ˜ Ç Ç8óle°7 Ò˘Ìt∫’¶[5ıglœ+fi@Õı¸“rVﬂ ï(Í¯fﬁBC=¯x†h(â≠µÓ¸ı2“å∏_ÁlÄnÎ[|ó[0Á.B∏∆pö˛˛ 	¨5F’†åIEÄ√∫íU«Zùo“Îÿyõñ:ºDê44}ÙA•3ó/.lQR
+m=I∞À«ÜXÃ‹Óû.È∆9∏3\ ⁄Ó W3T.p(J%)Oí|.“˙›g.zËPx9Q∫É:⁄à~ê#êíıbXöÂ¬®sÜû≈ÿqÈÔ\d{ëÓ7/vòxVdÁoB—}íºÖjomdÖÿˇ"ñÌπÔ≤–\Ñ}h]5[K±≈iHyÊhé†ƒaò:L¯¿$yÂ¶h‡Ô˝÷ê÷.-AduV_ìî∂°úä<∂¿ËmÛ≈CÁv,h§ÚÊÀãàïË{*r$Å=!∆cm/%Ä£ô[™)•˝GÍ·˜kÂ˚[P&m+°Ç]1ı›b®|2‹L«•,r0PÄWìÇ‚ËÆ≥ßØY4ÆrÔ*ùÆx¨‚3ÏSµ…ô“(®*7°N´¸Ã~Xõ'mE·¥*úΩ0W°1. .…‚»T€°íOæ$5ò˛/i‹∏M„ﬁ/Ëlı¡ä‚”˛rw”®+‘WóÆáÿ æì∂âYS0ÇO0Ç7†'+c»ÃM-õÑQrlÙú^2QÆﬁ0	*ÜHÜ˜ 0O1&0$USSL.com C2PA RSA Root CA 202510U
+SSL Corporation10	UUS0251222181730Z301221181730Z0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç À:¥Õ∏úÀ)V∏yß¯kˆ˘ÿèr√¶ò≠*A⁄a.GRΩtQæ]ÏzÇ∂¿˚˙Ë'•ãË˛bÛ`Ò_H ssï‰NnÃNz5ﬁX·◊Ç‹“GCwõﬂHàyü£9§YN^‡NGóÚuB◊v=∂§"‹Ì∆o‘rFå÷Q«µ∑zÚì˘#'’ÄPuäp†hÈÁºÑ(|ú*Í)©¿/˛…vFU∞/cÍ}ûÙ∞D§@ﬁ@6\DäTkWHˇªo§’Íé¬◊|ÿºŒiø† MìE;ô.y“œûü)ªFŸxc0ñ3Qú^ìm˙Â4JXx≥)l]|∏uï<ôw!{ÿ¥JÎ⁄Õ«
+÷…¢ﬁÆó≥∂Qñ⁄íõ√≤ªPƒ˛∂§Lï]-íjObÂ‡*˜i†ú’πì ⁄—ª^O∆Ø˘)L–…ÏÎÛ≤qP{v'hë˘Pà∏w5ÿÕ°·◊”)ÁJ∆áTY$¬g≤m	5€∫Œ∏F•‡ã⁄·ßüjŒ`“ƒ˜¡ﬁsyU‡p¥ÔÍÃ«˛vâNf
+ià-Ì√F¢*‰å‘úWF-Xb’ ®˙~¯¬ŸajÀ5]†ì£≤e®/ÌÔòÁ¸~∫HÙ™°q¸ìØÍßNsài’B¿˘ÑíÖOÀT≥=:¯›)ey Cûñ∏áXñ!Ô—ë{ £Ç&0Ç"0Uˇ0ˇ 0Uˇ0)U%"0 ++$
++ÉË^0U9=G‹óèØà{MsÕÂÓ§•*0U 00
++ÉË^0U#0Ä¸*Ju:Ä˙ôcìsWÏæì∞}√{0x+l0j0$+0Ühttp://ocsp-c2pa.ssl.com0B+0Ü6http://crt-c2pa.ssl.com/SSL.com-C2PA-Root-2025-RSA.cer0	*ÜHÜ˜ Ç Œ6˙>Ôñ6-éØUfˇ{+ kVıÀ≠Ω*Å≠•¶–M£>ì‰ìi’‰å®nÊ7T‚%úÏef(<3=¢ö¢ªÕgdJÁæt!°n√´&ƒ;,⁄Uπ˝GN‡çxõ7Éƒt;≈GaÔmAr§€]CS…ñNÂ‡:ﬂ®›.—ØXó÷ÁÙ_r#<kœΩ9´åì®èßvY>·íı˜Ÿ˚Fb´nn‘àF†≥/*j_•N⁄¯‘¸ÃŸ£<©wE
+¡˘òπ9ÀÃ°q¿*Çq”‰ˆ%‚Q!m÷ﬂ‰SçoJ}é^¿∫’wy!ÅzŒÌ˜õé∂≤äBVùèkA*˛kúãÓ£(œ_ÛÈ–d÷Ó¬âKÎíœıØ¬'M∏ë°7%ôÊ˝Ä‹Ùº«7{æ¥-gX/Á√≥ãqÂDz0∂•≤u>[#~;”T¶:π«Ã3’j5zÅv/˛W⁄i¯>?ÔTèã{F√cû˙Ìƒ/pÑ+ˆVÇÙßÀ$◊l^${:Ω©X;i≥úè“ptˇãn&ª√´E«SñúGµ∆F´^ı¸àãh£5Â|jïeµ´Îπˇ∫∏‡õJG≤ŒÏ/â}ÓØúMƒ…Œı2=è˜&4˛"ãzÌ˘^^g_Q[€$V˚—Y°∑ﬁöf	∂—Ü.˙}~ïyõDf|6Öˆı£gsigTst2°itstTokensÅ°cvalYä0ÇÜ	*ÜHÜ˜†Çw0Çs10	`ÜHe 0ÅÜ*ÜHÜ˜	†wu0s
++Éø0010	`ÜHe  yk∫ä=@∆Ω+)9º\ÇÆfç—π	G°√Ù≤`§ô	 òœçko`Ñ£20261006084234.56009Z0Ä^êiƒ[9h›†Çf0Çˆ0Ç^†a€F(2äåçJ∑ø˛`„l?q∑0	*ÜHÜ˜ 0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CA0260408174626Z370709174626Z0u10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Leaf0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ Í ≈≠î˝˝'ü«xßa ˇ)a*˚°àÕ_®¢óùâ/ãë»º∞ñê=UÇ¡ñé6j≠âiËê€,D2É®
+ÕwÂ5ËÓ®d[˛∏‡éùÁ °(√5›ß7È"˜	Móö¥Ñs¿.|©PG(†¥i∞á)zY˛5B˘ŸiRJ 7ÚhÃÒ-∑Çñ KF\=§Ü∏KEf8¢NM' ï∫uÃNájüt√ $_ƒ~\Æ˛ÛïÌ ëﬂ<ıÜõ*^÷–›…˙»M√…ÑZI,‰8s`R∏LÓ∆Û∑∂ÿ›j©Œ ∫]÷ƒ\5dÚ#S?bée]p+‘…k	ÅERËWÌZF]⁄]vú%yhÉQ§òÑuëròUˇÿ„Cb±Ìig'Aº≈èÚj+ÉIË·-4ª9ØgΩ¥ï»≤ΩEgÕràî_UK,≠ØÌ•Ù$Øw>ÉädQèëå9ñK∞=Æ˙ô°>å=æ6°.ıcµ £x0v0Uˇ0 0Uˇ¿0U%ˇ0
++0U§'TÇ¢äÄ{=≈ÜÕ?pŸ¬ÉôQx0U#0ÄÚ∞«T=#CÖ‹ s–rÄ=∏®0	*ÜHÜ˜ ÇÅ  ˚$OA¿¿ºò≤2 ç ôH5OƒFV~ß>?∂•#˘*H>‡QùE@x¡ªÉNìP…õ'ñhﬂMŒÚˆ“y´ÔÍ¡⁄?ıòYÊpÕâÙÓGã™ÀÏˇå~·FÿëÊú∏‰4Fˇa“x¯}89„RÌ_fËs¿ r;‰®´éÜ*£7!˘;ﬂ{\TÿL«j*KœCt`Äs£…—wØá©˝µ±Ñjnøà*Œö°ö´¢ûÇH7≈cQó€R|og…iB’œı˚≠^ãê‚‡y<.Éjû•Ë%AèÖÌ‰¡†:ç˛ùRPÔáﬁ·dÕU˘! ﬂ∂)Ôü'n—∫4F´J"OÁbw›E#›a-¬1)èƒπ~y´¥W‘¡Ïœ·\{eI∞ÎM´§«'@N¶¥µèœ|√¥Cßv”^0cÓ®Æ5(td´Z5„[/:>N
+a÷0MCõˇN.∆!π>:, W0ujédK¢–	—◊†g&Amg¯pv∏%&V˘ë&'√KI0Ç~0Çf†ç ∆≈≈⁄∞ºÒNï•Íº0	*ÜHÜ˜ 0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0 260408174626Z21260409174626Z0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CA0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ âº‘π‚»°æaªﬁ<df~ßæúm”©0&<Ù‡k 9ﬂï4Ì©¢eH€7Ü2ÉéÃ
+J†¿Û4l†¿òÕ+ü•ÙÀ|Ÿ&ﬁ~…M¢Ôc[ëÊˆY®“˙N˘Ÿ8+ZÕ`ZòÅò®◊S∆„÷.H¨CW	ÈîÚG˘lEä`∑˜Æ/^¢5NÖ8Öiü4ù–MÿC=Õ4m¸cì¸”pªJËvËjNfI†Ì¸¯æÔö∑®w¨Ô∑8Ãπ‘*3ƒv÷@wÀ˛«]-@”ﬁã<¿÷@AôÀî?,} kR¸û P∑	GE·#U˙±OoTòïÙ}∫¯h·"z‹äëCã∂.C±b†æ $é.Ôø§—MË∏?1œ&=≈ PÍÚŸ$ dÌ’sû.px™ﬁV<˘‘Ä¢Ë≠Øˆ˚®£\Àh´D€0wÚƒ4tkUm∆á˚Ú2<ûqE˜ÏP˚˛÷1&ª–ƒMa‚B€Ø√+n_+Ê‚∞Ôç\DÕ¿s}è¢ÈΩmÇº%eÑ0iÌ £{0y0Uˇ0ˇ 0Uˇ0U%0
++0UÚ∞«T=#CÖ‹ s–rÄ=∏®0U#0ÄX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0	*ÜHÜ˜ Ç íÏ7\ﬁlÎd⁄Æ°	0rÆ‹rı;ºz=÷∆·/ˆÉ3}ËW@NLô™k‘ôŸã€k÷L¯ –Y3”°†8\#àD$˚á·ˆì'º°ÌL_g]ˇ5´1“Ï{‘@C7O¬Ñú∫d»∞¢~ö6¯·–Ç≥PC≤‡UΩÄî»YRNJtﬁ]«EXõ∑˙0™;‹Gº’.,π8c,yZ∑›U≠=BﬂàœÒh˛s ‘Z∑ﬁ$óë¿Ág˛‹¶
+Û•F≥QœçØ_„»∏@∆Ω„˘÷Kq–d]Âd¬K¿^w—=«[ûœ{˝îîÁKQ⁄˚dÙ´5îÒˆæ~+›≤ö=P›P√ñdém´sü(;w–óÌoEO±3._FÎÉ∂©aº◊ÇÆ¯Äo¬„i0Êm|:Dí+ò-Ø‹4¡æ•*HÁá»ﬁ8µ3 „ÑPpÒ≤KﬁçOˆë‹_Ö˙ÒÊ—◊ ßÓ¥üˆ!x)Å„pXwÜ§:KóÉFË⁄¬jv…©À!Eæe±†Ü.ÄºYKMõCm¥◊Ñ‡¸’»aêCéjù√Ò!<Ñ]˛;÷ÿ#9E_q˙2˝†ÄïDµO Â√t˝‚NárÜÙQáΩ‘µ+5lí§;kjù∫˝¿;úv¬’9I⁄„î>Pj◊L‚âaùÔÎœ≈√@npz80ÇÊ0ÇŒ†P;lâå$3,è˜Oé˚}ÇÏ0	*ÜHÜ˜ 0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0 260408174625Z21260409174625Z0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ˆíÈ“∫≠û·¨u®Vÿ™±≥jí_ñyıí∑-$¯ø¿Ø`æ¡öÕyö‹lö˛6ö¡ò§?‰,ù∫••Ps≥
+¬˘ÛƒI/xΩ“ÏºÁ?Ùõ—Ú†a¢,â% Q˘%ú“∆/ÙâƒA˛&”m5ÕÏª5`@®ÖQæˆÓêòÒ*ÿùzkjŸ.ŸcÛÂ\)≈Ü"¡ähÕÎ8û©Pñ[#C˚8ˇB|;:°Q/%…H‹1ˇPrÓ|°wÕoÅaÛ?ønË“±¶6‰k2˚˛w®^õ\››1êLéeˇÅÀAŒ(1S CŒHn}÷d≥)‰¥.:∑TZrVWÛ®j}ÔÊa›e»H	Iô2t
+¢Ã›ì S¨#ΩÇÖ ±ÔæÌ°w Ó:F3¢ûÏØÈ1f¥fo≤âì†~ï!ŒA¯^éÈÕπ¿’3]x––'1œP0rs⁄j¬¿ìœ≠‹dáˆ˚Nàvı>Ôˇí,ôw.ˆ‹ò∂ù	:˝Ù	«è_ZÈ~H	+µäÉÚ[<,Øë¢ùA∑Rh—ø∞¿⁄O`ΩÓ)™Ìáçq\(åçà£%cEÿ¸{aèlFT;\…∞ÇØÉ»±#?ü[Ó¢◊Tµ*SÆªÖ€¶˙óûÏÑârÛz@…∂ÖXG[Ò$a9¢Lﬁÿ∆®"Úûø[L,À £f0d0Uˇ0ˇ0Uˇ0UX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0U#0ÄX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0	*ÜHÜ˜ Ç X¯ÅëòÚla˛»Ü÷[Ñ¶÷æ∏¶]]IÀ∏°)Õ-ù∏X˘Ñâ=<¯o’j¥*¢UígÅô^µT˚öFÄ„Q S¿¡àWﬁÔÇU~„Ù}Î&¸Éˇ!®¡¨ﬁ€ì´Õ–0v:ìùŒ™g9.Ätﬂm~v/ÈÍPAã8=lÂ‡>Ó/€dT6^æbE∂—!¥Ä<åÎ⁄ú÷J©’Te[k—X~¿IáÎÎK_í;î◊öÜˆ°YŒG8¨√∞td—¿R;°±{(k·ió¯(;'ˇÆ§û˜eÀ†ÙÍπΩîŒD‚ò±
+HhÓU©!•`è˛ ÷}—{Ü úÛ®x–∆⁄@.»Å\b®*¡˚VÁyéØÏÂ€”p˛FÃc®dÒ<ÈØ•dº^øÖ-∞Œ„π”§◊RªpãÜù˚.ø
+ˆ“U+#B+C\Ï°Ça?œqÌ∞˜óÈ‰À¬<¸¨w∑∂‹ ¡LÈâ≤≤/√~ídúµÑﬁÃñ˝â∞KµC}“È≠Ü˝Ÿ-üΩ Ó¿¥GV#|HëNgâ {b¡…^UÒˆ∆Q#WoÔáæ Fyæî±» (ùïäà&UfRÔŸK∫®ZÈ¬,≠ü√\BÛ°ı'dyqå
+Zû˝π˘Eyp·jµ7ñéX˝EøT%åÉ=Ÿ&3#–Xw¶∏1Çh0Çd0Åì0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CAa€F(2äåçJ∑ø˛`„l?q∑0	`ÜHe †Ç%0	*ÜHÜ˜	1*ÜHÜ˜	0/	*ÜHÜ˜	1" 9Û;ﬂAƒI"±Ù•íπßÇ÷YeƒÑè≈•Vf0Å’*ÜHÜ˜	/1Å≈0Å¬0Åø0Åº ΩOπ≤êLÅ6gànÔA·m˛Ÿ"ùø[íJ–¢ƒ`F"z0Åó0§}0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CAa€F(2äåçJ∑ø˛`„l?q∑0	*ÜHÜ˜ ÇÄ√à”ùËcŒ
+=hØËZpî&ûN9œÛi‘.Ë†\√^$AEÜ/xR÷ãKﬂPZ‰ hÓïÉß1èåd˝î∂DpA1#´ï≤Ôa˜÷‚8DFáÉß%z tábÔeâô¨”¥˙gC]ºsyŸa*ƒ$ô≈µñÉ@çÎßèí≥ê9ÊRTztúï
+—4◊A„:˙ËC∆éä±Ωó|ÇIJ•ˆ…ÌÊÕ:}i1J6è!ΩêÀüKódÊ Õ% ,zÚÿkiìÓu¨DG∑ﬂR©Br3¥jF &¡Y§z¥ŸÖ,±†DΩæÙPÑÍo/aeÇ‘9yâ>Tˇ«‡ë‰î=zêˆÎw;õıY‰ÅE±18í—çSY∆∫ú-‰vc†©~U⁄ˆ€ŒdÚŸ¸ﬁô˘É∫~V__2rm’Ó=˜t@ü∑óqO1ï¯ƒ<ª”0aŸ™⁄-¥∂I„Ò‘L3~„¶µê€§¢¨˛CRO0Xç…9lÜJJ2œaH-RerVals°hocspValsÅY◊0Ç”
+ †ÇÃ0Ç»	+0Çπ0Çµ0ÅÈ¢=™™xé˙ˆL˙^j—@MÂTÚÆ20261005220719Z0Åò0Åï0I0	+ ﬂÇ7S^Sÿ3±‡=$5ÒuÊ·
+9=G‹óèØà{MsÕÂÓ§•*•¸ÈpåÚÄ1ÓDdsÄ 20261005220719Z†20261012220718Z°"0 0	+020161007220719Z°#0!0	+0êkyù»Qkcé7óæpÊﬂ0	*ÜHÜ˜ ÇÅ ˝FÄû´9πƒg ÑÆˇ◊vsàU”8&eN˝™éô\èß0ÃﬂÔìÆƒyr£ùÕq˛eë°†N<LÆö‹ˆ“]vÊ∏¥R◊çÔï¿^ä∫Vfˆ[ÕN˘…:liÚˇKôÃ¬æÊ∞V˚˘buË™¥á)M˜‘€`J•—M“Û…Yπm◊„Ê\ÍÂ/∫^&àyrD’U‰¨∞?ÅÈZuç9J@…¬‚¯ˇº]Îh¢@˝~?c∫»ˇyÓÂJ*å†ziÊ†Ù®‰Ê™-Âóﬂ~Fˇüñp¢K )ÇY`'Ö∫‡À…ck †·ÏÔ È©¶ørI Æ»%¥t/®.=™: ƒÿC[,ˇä{öxülß=ıˇ Î›-[Wÿ(∫vÈ∫ËÈ®πç≠—:%√Âk{x	˘¨·ÒÇQéë∏u8KâûU5“zcw‡•ÇÁí⁄{cåâAémÔÌø—d¡bƒT˛®2DB◊ÏÆ∂õ\≈Ê&˙Åÿ¥Î«LÈ"%ÂÀ∏°{ß†5Ã¿Q†Ç10Ç-0Ç)0Ç†ZJ≤?–(∆˛K≥?n=„'∫0	*ÜHÜ˜ 0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0260102201415Z270102201414Z0M10	UUS10U
+SSL Corp1+0)U"SSL.com C2PA ICA R1 OCSP Responder0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ ¢PìAÊJKﬁõ¶ït&X<ÏR¸ªî2Õ√∆Pﬂ–Ωú∆npã#ó◊åÓÃ|VÓgæ˘ö¿í∞Î∫•3ˇmiêÉ/à-Ì∞K],õπ∏e$cÓ∞$`ç
+Ë¯y∆”a5[åóXü≥å\ÿ‰∆¶–C≥ß”TŸlà˜ß∏ƒÿn˝1(ﬁ	.ê'ısŸw¶’Pö ŸºÀ2≈Fπ¸¢UMÓ†õ¨hj¡?8*zÿ”]∫¥≥ÎùU)ÓÏ“7üÆ≈6©ú∞∑ﬁD*ãËPß Äy{%œŸ9ÚûEõw∫x	†¶N{@é1˝Í"háÄƒÇ!‰OZÚÛà§Kâ*~L$&©†ö…ù|ÓkbÖ"2Ó÷‹+“ﬂ÷F4v†Ç(xéæ*›‰÷j*w€tz5'¶á¡∏:SÅ™ö÷+ìØ„õ∑e“&0J•æ ÒãZ4¶°“Ör8X9ƒÏ>2Ñﬂ7y÷0”7xÊËÕíÈn+nÏ0Î28.©<“-Â £Åá0ÅÑ0Uˇ0 0U#0Ä9=G‹óèØà{MsÕÂÓ§•*0	+0 0U%0
++	0U=™™xé˙ˆL˙^j—@MÂTÚÆ0UˇÄ0	*ÜHÜ˜ Ç ªs¶UÑ£hPÎÒ†l◊…)Ñù>®/Ì
+ª†Î´À¡∏Ü∑0%HmÛ·Ω°M(“+e`D‹∂ç´U?◊›Ö˛ó[$,Ï≠KKÙª	˙û∞‡∞∞˝éDr¥èj›cËÎ≤÷‘«ÒÁãﬂﬂlƒ	¢˝=sX¡()¢k`i0);U¥å©§ê©p>nrƒv0iÇO%¥OUŒÈHœ_ãÕVkﬂ‹ûÜ65é¡7ïs∏Ì∂®DæˆóﬁIºè°>r'–=!|R\P©«‹©˚˜m∞*&†îﬂdÖåß=ä:1të!·ÏJﬂÖhŒa©§k23”hÊ…ø≥¸ˇïÒ◊¬eJlNG˛®`îwhAŒN(D•∆òá®5Úéf™$Ωj¡Æ kﬁt£w&eß•¬(%˝>©ÂIπˇthrGP˚tö"hÖåøÉ úŸ„m¢<\«N•v“ˇ¬™≈Æ¥¸*Bl'®¥÷9ÀôXÀ√±¸6Ë5‘À^…òòŒËÇãÌXa∫aë—©z…>X‡¸îHLtÊœ‘|≥ÚË#KË0hª'Ïπˆ	∂ÌyìÂ
+Çµ«Á.∆Ökì•AY)î∫X”oñMüQ3ë?¿∏Pœµ∫`àÈ7
+Lñü#x⁄¡ é≈ñ>l˙_ 7Vﬂ	!òíy˜¿ø„Œíß´,W=A‘â‡?cpadY&v                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ˆY U8•≤?ˇW‡‹xPõ®0 ªsóøPf=¥iB‰BRÎQ(àrwÆâgÓ_ºÆ¢=rpŸ$√ÿ…nØ=ﬂc˝—≈ëˇ“å∆™Ä¶iEÄÑG¨$
++’#”ënU*ãéƒá«˝Òﬂé∑)‚°¬P¯+kn]6Ä9vWbAO%3åûQ≤ ˛é+¯⁄iQ”L„ ﬁ∂Ú, ~pÅ8Øjy©©£Â÷Kfò¨ÔD?≥√&~≤	.AE⁄¬6¨⁄kæ⁄N‹$xX˛“Evñ18Z≥\\R,?®C‘⁄ÚÖˆÑ«ggØ_|Å≥k©å6Ωﬂ„Oez≈¶Ï¢
+endstream
+endobj
+21 0 obj
+<< /AFRelationship /C2PA_Manifest /Desc (Content Credentials) /F (Content Credentials) /EF << /F 20 0 R >> /Subtype (application/c2pa) /Type /Filespec /UF (Content Credentials) >>
+endobj
+xref
+3 1
+0000013043 00001 n 
+20 2
+0000013178 00000 n 
+0000037561 00000 n 
+trailer
+<< /Size 22 /Root 3 1 R /Prev 12564 >>
+startxref
+37757
 %%EOF
