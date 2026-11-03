@@ -117,3 +117,13 @@ footer .big{font-size:clamp(50px,15.5vw,250px);font-weight:500;letter-spacing:-.
  .pj summary,.pb{grid-template-columns:36px 1fr;gap:12px}.pj summary .pl{width:36px;height:36px}
 }
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}.rv{opacity:1;transform:none}}
+/* Mobile footer name fix */
+@media (max-width: 480px) {
+    footer .big {
+        font-size: clamp(30px, 9.5vw, 46px);
+        letter-spacing: -0.05em;
+        line-height: 1;
+        white-space: normal;
+        max-width: 100%;
+    }
+}
