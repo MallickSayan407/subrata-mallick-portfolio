@@ -127,3 +127,10 @@ footer .big{font-size:clamp(50px,15.5vw,250px);font-weight:500;letter-spacing:-.
         max-width: 100%;
     }
 }
+/* Desktop footer name sizing */
+@media (min-width: 481px) {
+    footer .big {
+        font-size: clamp(36px, 12vw, 190px);
+        white-space: nowrap;
+    }
+}
